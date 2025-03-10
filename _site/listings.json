@@ -2,7 +2,6 @@
   {
     "listing": "/recents.html",
     "items": [
-      "/pages/telescopes.html",
       "/pages/telescopes/NIRSpec.html",
       "/pages/telescopes/JWST-exgal-surveys.html"
     ]
